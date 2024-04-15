@@ -8,15 +8,15 @@ Reference of the most commonly used resources and frameworks to make iOS develop
 
 <br>
 
-## Contents
+# Contents
 
-### Documentation
+## Documentation
 1. **Apple:** [`Archived Documentation`](https://developer.apple.com/library/archive/navigation/), [`Design Guideline`](https://developer.apple.com/design/human-interface-guidelines), [`Documentation`](https://developer.apple.com/documentation), [`Swift Standard Library`](https://developer.apple.com/documentation/swift), [`SwiftUI`](https://developer.apple.com/documentation/swiftui), [`Technotes`](https://developer.apple.com/documentation/technotes), [`WWDC Notes`](https://www.wwdcnotes.com/), [`Xcode-s`](https://xcodereleases.com/)
 1. **Swift:** [`Language Guide`](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/), [`Language Reference`](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutthelanguagereference/), [`Swift CHANGELOG`](https://github.com/apple/swift/blob/main/CHANGELOG.md), [`Swift Proposals`](https://github.com/apple/swift-evolution/tree/main/proposals)
 
 <br>
 
-### Packages
+## Packages
 
 1. [**Algorithms and Data Structures**](pages/algorithms_and_data_structures.md): [`General`](pages/algorithms_and_data_structures.md#general) [`Diffing Algorithms`](pages/algorithms_and_data_structures.md#diffing-algorithms)
 1. [**Architecture**](pages/architecture.md): [`App Routing`](pages/architecture.md#app-routing) [`Architecute Patterns`](pages/architecture.md#architecute-patterns) [`Dependency Injection`](pages/architecture.md#dependency-injection)
@@ -30,14 +30,14 @@ Reference of the most commonly used resources and frameworks to make iOS develop
 1. [**Parsers**](pages/parsers.md): [`CSV`](pages/parsers.md#csv) [`JSON`](pages/parsers.md#json) [`Other`](pages/parsers.md#other) [`XML HTML`](pages/parsers.md#xml-html)
 1. [**Persistence**](pages/persistence.md): [`Archive`](pages/persistence.md#archive) [`Cache`](pages/persistence.md#cache) [`Core Data`](pages/persistence.md#core-data) [`Database`](pages/persistence.md#database) [`Files`](pages/persistence.md#files) [`Network Storage`](pages/persistence.md#network-storage) [`UserDefaults`](pages/persistence.md#userdefaults)
 1. [**Project Setup and Environment**](pages/project_setup_and_environment.md): [`Code Quality Tools`](pages/project_setup_and_environment.md#code-quality-tools) [`Gen Tools`](pages/project_setup_and_environment.md#gen-tools) [`Misc Tools`](pages/project_setup_and_environment.md#misc-tools) [`Package Managers`](pages/project_setup_and_environment.md#package-managers) [`XCode`](pages/project_setup_and_environment.md#xcode)
-1. [**Security**](pages/security.md): [`Encryption`](pages/security.md#encryption)
+1. [**Security**](pages/security.md): [`Auth`](pages/security.md#auth) [`Encryption`](pages/security.md#encryption) [`Keychain`](pages/security.md#keychain) [`Misc`](pages/security.md#misc)
 1. [**System Services**](pages/system_services.md): [`APNS`](pages/system_services.md#apns) [`Notifications`](pages/system_services.md#notifications) [`Passbook`](pages/system_services.md#passbook) [`Payments`](pages/system_services.md#payments) [`Permissions`](pages/system_services.md#permissions)
 1. [**Tesing**](pages/tesing.md): [`Other Tesing`](pages/tesing.md#other-tesing) [`TDD / BDD`](pages/tesing.md#tdd-/-bdd) [`UI Tesing`](pages/tesing.md#ui-tesing)
 1. [**UI Foundation**](pages/ui_foundation.md): [`Animations`](pages/ui_foundation.md#animations) [`Colors`](pages/ui_foundation.md#colors) [`Gestures`](pages/ui_foundation.md#gestures) [`Graphics and Drawing`](pages/ui_foundation.md#graphics-and-drawing) [`Layout`](pages/ui_foundation.md#layout) [`Transitions`](pages/ui_foundation.md#transitions)
 
 <br>
 
-## Credits
+# Credits
 
 - Inspired by:
   - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
@@ -47,9 +47,7 @@ Reference of the most commonly used resources and frameworks to make iOS develop
 
 <br>
 
-## Contribution
-This reference is generated automatically. 
-
+# Contribution
 Due to a large amount of resources, contents may not be up to date and/or frequently updated. Contribution is always welcome!
 
 If you're willing to make a suggestion or contribution to this project please check the [Contribution.md](CONTRIBUTION.md) first.
